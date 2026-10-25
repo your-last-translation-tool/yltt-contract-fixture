@@ -1,7 +1,9 @@
 {
   "hello": "Привіт",
   "items_one": "{{count}} елемент",
-  "items_few": "{{count}} елементи",
+  "items_few": "{{count}} елементи (QA)",
   "items_many": "{{count}} елементів",
-  "items_other": "{{count}} елемента"
+  "items_other": "{{count}} елемента",
+  "save": "Зберегти",
+  "welcome": "Ласкаво просимо до застосунку"
 }
