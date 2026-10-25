@@ -1,5 +1,5 @@
 {
-  "hello": "Привіт!",
+  "hello": "Привіт, світе",
   "items_one": "{{count}} елемент",
   "items_few": "{{count}} елементи (QA)",
   "items_many": "{{count}} елементів",
