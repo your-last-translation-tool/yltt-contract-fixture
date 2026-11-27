@@ -1,9 +1,10 @@
 {
-  "hello": "Привіт!",
+  "hello": "Привіт, світе",
   "items_one": "{{count}} елемент",
-  "items_few": "{{count}} елементи",
+  "items_few": "{{count}} елементи (QA)",
   "items_many": "{{count}} елементів",
   "items_other": "{{count}} елемента",
   "save": "Зберегти зміни",
-  "welcome": "Вітаємо в застосунку"
+  "welcome": "Вітаємо в застосунку",
+  "close": "Закрити вікно"
 }
