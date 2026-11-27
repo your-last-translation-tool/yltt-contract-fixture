@@ -4,5 +4,6 @@
   "items_one": "{{count}} item",
   "items_other": "{{count}} items",
   "save": "Save",
-  "cancel": "Cancel"
+  "cancel": "Cancel",
+  "close": "Close"
 }
